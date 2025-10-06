@@ -1,0 +1,9 @@
+# requirements.txt
+contextily
+fiona
+geopandas
+matplotlib
+numpy
+pandas
+pyproj
+shapely
